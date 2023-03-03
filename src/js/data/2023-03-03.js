@@ -35,98 +35,98 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "The End.",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: [ "parade"]
     }
   },
   {
     name: "Dead!",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "This Is How I Disappear",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "The Sharpest Lives",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "Welcome to the Black Parade",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "I Don't Love You",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "House of Wolves",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "Cancer",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "Mama",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "Sleep",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "Teenagers",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "Disenchanted",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "Famous Last Words",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
   },
   {
     name: "Blood",
-    img: "XqpctWm.png",
+    img: "FyL1OFN.png",
     opts: {
       series: ["parade"]
     }
@@ -329,84 +329,84 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Romance",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Honey, This Mirror Isn't Big Enough For The Two of Us",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Vampires Will Never Hurt You",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Our Lady of Sorrows",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Headfirst For Halos",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Drowning Lessons",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Skylines and Turnstiles",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Early Sunsets over Monroeville",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "This Is the Best Day Ever",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Cubicles",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Demolition Lovers",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
   },
   {
     name: "Romance",
-    img: "znrYvqp.jpeg",
+    img: "gkEdbff.png",
     opts: {
       series: ["bullets"]
     }
@@ -595,525 +595,525 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Honorable Mention",
-    img: "RekBTIA.jpeg",
+    img: "LW7m8b2.png",
     opts: {
       series: ["girlfriend"]
     }
   },
   {
     name: "Calm Before the Storm",
-    img: "RekBTIA.jpeg",
+    img: "LW7m8b2.png",
     opts: {
       series: ["girlfriend"]
     }
   },
   {
     name: "Switchblades and Infidelity",
-    img: "RekBTIA.jpeg",
+    img: "LW7m8b2.png",
     opts: {
       series: ["girlfriend"]
     }
   },
   {
     name: "Pretty In Punk",
-    img: "RekBTIA.jpeg",
+    img: "LW7m8b2.png",
     opts: {
       series: ["girlfriend"]
     }
   },
   {
     name: "Growing Up",
-    img: "RekBTIA.jpeg",
+    img: "LW7m8b2.png",
     opts: {
       series: ["girlfriend"]
     }
   },
   {
     name: "The World's Not Waiting (For Five Tired Boys In A Broken Down Van)",
-    img: "RekBTIA.jpeg",
+    img: "LW7m8b2.png",
     opts: {
       series: ["girlfriend"]
     }
   },
   {
     name: "Short, Fast, and Loud",
-    img: "RekBTIA.jpeg",
+    img: "LW7m8b2.png",
     opts: {
       series: ["girlfriend"]
     }
   },
   {
     name: "Moving Pictures",
-    img: "RekBTIA.jpeg",
+    img: "LW7m8b2.png",
     opts: {
       series: ["girlfriend"]
     }
   },
   {
     name: "Parker Lewis Can't Lose (But I'm Gonna Give It My Best Shot)",
-    img: "RekBTIA.jpeg",
+    img: "LW7m8b2.png",
     opts: {
       series: ["girlfriend"]
     }
   },
   {
     name: "Tell That Mick He Just Made My Day",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Tell That Mick He Just Made My List of Things To Do Today",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Dead on Arrival",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Grand Theft Autumn/Where Is Your Boy Tonight",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Saturday",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Saturday",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Homesick at Space Camp",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Sending Postcards from a Plane Crash (Wish You Were Here)",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Chicago Is So Two Years Go",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "The Pros and Cons of Breathing",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Grenade Jumper",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Calm Before the Storm",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Reinventing the Wheel to Run Myself Over",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "Patron Saint of Liars and Fakes",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["grave"]
     }
   },
   {
     name: "My Heart Is the Worst Kind of Weapon",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["tounge"]
     }
   },
   {
     name: "It's Not A Side Effect of the Cocaine, I Am Thinking It Must Be Love",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["tounge"]
     }
   },
   {
     name: "Nobody Puts Baby in the Corner",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["tounge"]
     }
   },
   {
     name: "My Heart Is the Worst Kind of Weapon",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["tounge"]
     }
   },
   {
     name: "Love Will Tear Us Apart",
-    img: "RekBTIA.jpeg",
+    img: "fIKRGqg.png",
     opts: {
       series: ["tounge"]
     }
   },
   {
     name: "Our Lawyer Made Us Change The Name of This Song So We Wouldn't Get Sued",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Of All The Gin Joints In the World",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Of All The Gin Joints In the World",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Dance, Dance",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Sugar, We're Goin Down",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Nobody Puts Baby in the Corner",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "I've Got A Dark Alley and a Bad Idea That Says Shut Your Mouth (Summer Love)",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "7 Minutes in Heaven (Atavan Halen)",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Sophmore Slump or the Comeback of the Year",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Champagne For My Real Friends, Sham Pain For My Fake Friends",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "I Slept With Someone In Fall Out Boy, And All I Got Was This Stupid Song Written About Me",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "A Little Less Sixteen Candles, A Little More Touch Me",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Get Busy Living or Get Busy Dying (Do Your Part to Save the Scene And Stop Going To Shows)",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "XO",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Snitches and Talkers Get Stitches And Walkers",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "The Music or The Misery",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "My Heart is The Worst Kind of Weapon",
-    img: "QL3TbP3.jpeg",
+    img: "TthwyIE.png",
     opts: {
       series: ["cork"]
     }
   },
   {
     name: "Thriller",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "Take Over, The Break's Over",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "This Ain't A Scene, It's an Arms Race",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "I'm Like A Lawyer With The Way I'm Trying To Get You Off (Me & You)",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "Hum Hallelujah",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "Golden",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "Thnks fr th Mmrs",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "Don't You Know Who I Think I Am?",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "The (After) Life Of The Party",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "The Carpal Tunnel Of Love",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "Bang The Doldrums",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "Fame > Infamy",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "You're Crashing, But You're No Wave",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "I've Got All This Ringing In My Ears, And None On My Finger",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "G.I.N.A.S.S",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "It's Hard To Say I Do, When I Don't",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "G.I.N.A.S.S",
-    img: "JGZaXjE.jpeg",
+    img: "dBxdmg3.png",
     opts: {
       series: ["infinity"]
     }
   },
   {
     name: "Disloyal Order Of Water Buffaloes",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "I Don't Care",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "She's My Winona",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "America's Suitehearts",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "Headfirst Slide Into Cooperstown",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "The (Shipped) Golden Standard",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "(Coffee's For Closers)",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "What A Catch, Donnie",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "27",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "Tiffany Blews",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "w.a.m.s",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "20 Dollar Nose Bleed",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
   },
   {
     name: "West Coast Smoker",
-    img: "JLCyRQf.jpeg",
+    img: "xvc2lWl.png",
     opts: {
       series: ["folie"]
     }
@@ -1148,56 +1148,56 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "We Were Doomed From The Start (The King is Dead)",
-    img: "RekBTIA.jpeg",
+    img: "MNGKQDW.png",
     opts: {
       series: ["pax"]
     }
   },
   {
     name: "Art of Keeping Up Disapperances",
-    img: "RekBTIA.jpeg",
+    img: "MNGKQDW.png",
     opts: {
       series: ["pax"]
     }
   },
   {
     name: "Hot to the Touch, Cold on the Inside",
-    img: "RekBTIA.jpeg",
+    img: "MNGKQDW.png",
     opts: {
       series: ["pax"]
     }
   },
   {
     name: "Love, Sex, Death",
-    img: "RekBTIA.jpeg",
+    img: "MNGKQDW.png",
     opts: {
       series: ["pax"]
     }
   },
   {
     name: "Eternal Summer",
-    img: "RekBTIA.jpeg",
+    img: "MNGKQDW.png",
     opts: {
       series: ["pax"]
     }
   },
   {
     name: "Demigods",
-    img: "RekBTIA.jpeg",
+    img: "MNGKQDW.png",
     opts: {
       series: ["pax"]
     }
   },
   {
     name: "American Made",
-    img: "RekBTIA.jpeg",
+    img: "MNGKQDW.png",
     opts: {
       series: ["pax"]
     }
   },
   {
     name: "Caffine Cold",
-    img: "RekBTIA.jpeg",
+    img: "MNGKQDW.png",
     opts: {
       series: ["pax"]
     }
@@ -1281,154 +1281,154 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Irresistible",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "American Beauty/American Psycho",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "Centuries",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "The Kids Aren't Alright",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "Uma Thurman",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "Jet Pack Blues",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "Novocaine",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "Fourth of July",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "Favorite Record",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "Immortals",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "Twin Skeleton's(Hotel In New York City)",
-    img: "rOlgQHU.png",
+    img: "Gq8LGGM.png",
     opts: {
       series: ["abap"]
     }
   },
   {
     name: "Stay Frosty Royal Milk Tea",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "The Last Of The Real Ones",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "HOLD ME TIGHT OR DON'T",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "Wilson (Expensive Mistakes)",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "Church",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "Heaven's Gate",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "Champion",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "Sunshine Riptide",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "Young and Menace",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "Bishops Knife Trick",
-    img: "rOlgQHU.png",
+    img: "fsJ9SvP.png",
     opts: {
       series: ["mania"]
     }
   },
   {
     name: "Lake Effect Kid",
-    img: "yxomhBn.png",
+    img: "gn8wuMs.png",
     opts: {
       series: ["lake"]
     }
@@ -1449,49 +1449,42 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "I've Been Waiting",
-    img: "yxomhBn.png",
+    img: "gn8wuMs.png",
     opts: {
       series: ["fob"]
     }
   },
   {
     name: "Summer Days",
-    img: "yxomhBn.png",
-    opts: {
-      series: ["fob"]
-    }
-  },
-  {
-    name: "Dear Future Self",
-    img: "yxomhBn.png",
+    img: "gn8wuMs.png",
     opts: {
       series: ["fob"]
     }
   },
   {
     name: "Dear Future Self (Hands Up)",
-    img: "yxomhBn.png",
+    img: "gn8wuMs.png",
     opts: {
       series: ["fob"]
     }
   },
   {
     name: "Bob Dylan",
-    img: "yxomhBn.png",
+    img: "gn8wuMs.png",
     opts: {
       series: ["fob"]
     }
   },
   {
     name: "Love From The Other Side",
-    img: "RekBTIA.png",
+    img: "FkHpHan.png",
     opts: {
       series: ["stardust"]
     }
   },
   {
     name: "Heartbreak Feels So Good",
-    img: "RekBTIA.png",
+    img: "FkHpHan.png",
     opts: {
       series: ["stardust"]
     }
