@@ -1,6 +1,5 @@
 dataSetVersion = "2023-03-03"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
-
 dataSet[dataSetVersion].options = [
   {
     name: "Filter by Series Entry",
@@ -238,84 +237,84 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Na Na Na (Na Na Na Na Na Na Na Na Na)",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "Bulletproof Heart",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "SING",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "Planetary (GO!)",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "The Only Hope For Me Is You",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "Jet-Star and the Kobra Kid",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "Party Poison",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "Save Yourself, I'll Hold Them Back",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "S/C/A/R/E/C/R/O/W",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "Summertime",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "DESTROYA",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
   },
   {
     name: "The Kids from Yesterday",
-    img: "MXkm08.jpeg",
+    img: "MXkm08P.jpeg",
     opts: {
       series: ["danger"]
     }
