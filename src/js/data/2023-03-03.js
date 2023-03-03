@@ -1007,13 +1007,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "G.I.N.A.S.S",
-    img: "dBxdmg3.png",
-    opts: {
-      series: ["infinity"]
-    }
-  },
-  {
     name: "It's Hard To Say I Do, When I Don't",
     img: "dBxdmg3.png",
     opts: {
