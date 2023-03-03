@@ -27,7 +27,14 @@ dataSet[dataSetVersion].options = [
       { name: "MANIA", key: "mania" },
       { name: "Lake Effect Kid", key: "lake" },
       { name: "So Much (For) Stardust", key: "stardust" },
-      { name: "FOB Singles", key: "fob" }
+      { name: "FOB Singles", key: "fob" },
+      { name: "Viva Las Vengeance", key: "vlv" },
+      { name: "Pray for the Wicket", key: "pray" },
+      { name: "Death of a Bachelor", key: "bachelor" },
+      { name: "Too Weird to Live, Too Rare to Die!", key: "twtl" },
+      { name: "Vices and Virtues", key: "vices" },
+      { name: "Pretty. Odd.", key: "prettyodd" },
+      { name: "A Fever You Can't Sweat Out", key: "fever" },
     ]
   }
 ];
@@ -1119,13 +1126,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Disloyal Order Of Water Buffaloes",
-    img: "D9hKx.jpeg",
-    opts: {
-      series: ["folie"]
-    }
-  },
-  {
     name: "Alpha Dog",
     img: "RekBTIA.jpeg",
     opts: {
@@ -1487,6 +1487,615 @@ dataSet[dataSetVersion].characterData = [
     img: "FkHpHan.png",
     opts: {
       series: ["stardust"]
+    }
+  },
+  {
+    name: "Introduction",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "The Only Difference Between Martyrdom and Suicide is Press Coverage",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "London Beckoned Songs About Money Written By Machines",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "Nails For Breakfast, Tacks for Snacks",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "Camisado",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "Time to Dance",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "Lying is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "Intermission",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "But It's Better If You Do",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "I Write Sins Not Tragedies",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "I Constantly Thank God For Esteban",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of it Yet",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "Build God Then We'll Talk",
+    img: "o4Pr8UX.png",
+    opts: {
+      series: ["fever"]
+    }
+  },
+  {
+    name: "We're So Starving",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "Nine in the Afternoon",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "She's a Handsome Woman",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "That Green Gentleman (Things Have Changed)",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "Do You Know What I'm Seeing?",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "I Have Friends In Holy Spaces",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "Northern Downpour",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "When the Day Met the Night",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "Pas de Cheval",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "The Piano Knows Something I Don't Know",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "Behind the Sea",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "Folkin' Around",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "She Had the World",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "From a Mountain in the Middle of the Field",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "Mad As Rabbits",
+    img: "9zcVYY9.png",
+    opts: {
+      series: ["prettyodd"]
+    }
+  },
+  {
+    name: "The Ballad of Mona Lisa",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Let's Kill Tonight",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Hurricane",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Memories",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Trade Mistakes",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Ready to Go (Get Me Out of My Mind)",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "The Calendar",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Sarah Smiles",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Nearly Witches (Ever Since We Met..)",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Kaleidoscope Eyes",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Stall Me",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Oh Glory",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "I Wanna Be Free",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "Turn Off the Lights",
+    img: "pwaeYjg.png",
+    opts: {
+      series: ["vices"]
+    }
+  },
+  {
+    name: "This Is Gospel",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "Miss Jackson",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "Vegas Lights",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "Nicotine",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "Girls/Girls/Boys",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "Casual Affair",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "Far Too Young to Die",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "Collar Full",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "The End Of All Things",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "Cant' Fight Against the Youth",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "All The Boys",
+    img: "V5T5gDn.png",
+    opts: {
+      series: ["twtl"]
+    }
+  },
+  {
+    name: "Victorious",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Don't Threaten Me with a Good Time",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Hallelujah",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Emperor's New Clothes",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Crazy = Genius",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Death of a Bachelor",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "LA Devotee",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Golden Days",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "The Good, the Bad, and the Dirty",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "House of Memories",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Impossible Year",
+    img: "fVW2aKx.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "(Fuck A) Silver Lining",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Say Amen (Saturday Night)",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Hey Look Ma, I Made It",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "High Hopes",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Roaring 20s",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Dancing's Not a Crime",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "One of the Drunks",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "The Overpass",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "King of the Clouds",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Old Fashioned",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Dying in LA",
+    img: "9m6lw2R.png",
+    opts: {
+      series: ["bachelor"]
+    }
+  },
+  {
+    name: "Viva Las Vengence",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "Middle of a Breakup",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "Don't Let the Lights Go Out",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "Local God",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "Star Spangled Banner",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "God Killed Rock and Roll",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "Say It Louder",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "Sugar Soaker",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "Something About Maggie",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "Sad Clown",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "All By Yourself",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
+    }
+  },
+  {
+    name: "Do It To Death",
+    img: "JM6DbSs.png",
+    opts: {
+      series: ["vlv"]
     }
   }
 ];
