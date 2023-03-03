@@ -223,13 +223,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Helena",
-    img: "ASOfAzW.jpeg",
-    opts: {
-      series: ["revenge"]
-    }
-  },
-  {
     name: "Look Alive, Sunshine",
     img: "MXkm08P.jpeg",
     opts: {
