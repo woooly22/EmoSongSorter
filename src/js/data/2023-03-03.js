@@ -29,12 +29,17 @@ dataSet[dataSetVersion].options = [
       { name: "So Much (For) Stardust", key: "stardust" },
       { name: "FOB Singles", key: "fob" },
       { name: "Viva Las Vengeance", key: "vlv" },
-      { name: "Pray for the Wicket", key: "pray" },
+      { name: "Pray for the Wicked", key: "pray" },
       { name: "Death of a Bachelor", key: "bachelor" },
       { name: "Too Weird to Live, Too Rare to Die!", key: "twtl" },
       { name: "Vices and Virtues", key: "vices" },
       { name: "Pretty. Odd.", key: "prettyodd" },
       { name: "A Fever You Can't Sweat Out", key: "fever" },
+      { name: "Scaled and Icy", key: "icy" },
+      { name: "Trench", key: "trench" },
+      { name: "Blurryface", key: "blurryface" },
+      { name: "Vessel", key: "vessel" },
+      { name: "Twenty One Pilots", tooltip: 'Self-titled album', key: "21p" }
     ]
   }
 ];
@@ -2089,6 +2094,482 @@ dataSet[dataSetVersion].characterData = [
     img: "JM6DbSs.png",
     opts: {
       series: ["vlv"]
+    }
+  },
+  {
+    name: "Good Day",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "Choker",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "Shy Away",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "The Outside",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "Saturday",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "Never Take It",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "Mulberry Street",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "Formidable",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "Bounce Man",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "No Chances",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "Redecorate",
+    img: "ujK09ZS.png",
+    opts: {
+      series: ["icy"]
+    }
+  },
+  {
+    name: "Jumpsuit",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Levitate",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Morph",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "My Blood",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Chlorine",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Smithereens",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Neon Gravestones",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "The Hype",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Nico and the Niners",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Cut My Lip",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Bandito",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Pet Cheetah",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Legend",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Leave the City",
+    img: "g10X5Ay.png",
+    opts: {
+      series: ["trench"]
+    }
+  },
+  {
+    name: "Heavydirtysoul",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Stressed Out",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Ride",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Fairly Local",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Tear In My Heart",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Lane Boy",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "The Judge",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Doubt",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Polarize",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "We Don't Believe What's On TV",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Message Man",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Hometown",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Not Today",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Goner",
+    img: "B3mFaLK.png",
+    opts: {
+      series: ["blurryface"]
+    }
+  },
+  {
+    name: "Ode to Sleep",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Holding on to You",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Migrane",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "House of Gold",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Car Radio",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Semi-Automatic",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Screen",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "The Run and Go",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Fake You Out",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Guns for Hand",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Trees",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Truce",
+    img: "Vpq5eex.jpg",
+    opts: {
+      series: ["vessel"]
+    }
+  },
+  {
+    name: "Heathens",
+    img: "FMUu1Y8.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Level of Concern",
+    img: "FMUu1Y8.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Level of Concern",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Implicit Demand For Proof",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Fall Away",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "The Pantaloon",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Addict With A Pen",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Friend, Please",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "March To The Sea",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Johnny Boy",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Oh Ms Believer",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Air Catcher",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Trapdoor",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "A Car, A Torch, A Death",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Taxi Cab",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Before You Start Your Day",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
+    }
+  },
+  {
+    name: "Isle Of Flightless Birds",
+    img: "5xxyxEH.png",
+    opts: {
+      series: ["21p"]
     }
   }
 ];
